@@ -1,0 +1,369 @@
+
+
+===============================================================================
+          Frequency Count: 82
+===============================================================================
+the                                
+
+===============================================================================
+          Frequency Count: 35
+===============================================================================
+and                                
+
+===============================================================================
+          Frequency Count: 34
+===============================================================================
+a                                  
+
+===============================================================================
+          Frequency Count: 32
+===============================================================================
+to                                 
+
+===============================================================================
+          Frequency Count: 25
+===============================================================================
+he                                 
+
+===============================================================================
+          Frequency Count: 24
+===============================================================================
+was                                
+
+===============================================================================
+          Frequency Count: 23
+===============================================================================
+in                                 
+
+===============================================================================
+          Frequency Count: 21
+===============================================================================
+of                                 
+
+===============================================================================
+          Frequency Count: 19
+===============================================================================
+for                                her
+his                                
+
+===============================================================================
+          Frequency Count: 18
+===============================================================================
+it                                 she
+
+===============================================================================
+          Frequency Count: 17
+===============================================================================
+beauty                             i
+
+===============================================================================
+          Frequency Count: 16
+===============================================================================
+had                                
+
+===============================================================================
+          Frequency Count: 15
+===============================================================================
+beast                              
+
+===============================================================================
+          Frequency Count: 14
+===============================================================================
+at                                 you
+
+===============================================================================
+          Frequency Count: 13
+===============================================================================
+as                                 me
+merchant                           that
+
+===============================================================================
+          Frequency Count: 12
+===============================================================================
+on                                 
+
+===============================================================================
+          Frequency Count: 10
+===============================================================================
+but                                castle
+my                                 
+
+===============================================================================
+          Frequency Count: 8
+===============================================================================
+one                                your
+
+===============================================================================
+          Frequency Count: 7
+===============================================================================
+rose                               so
+when                               
+
+===============================================================================
+          Frequency Count: 6
+===============================================================================
+all                                an
+by                                 daughter
+i'll                               into
+life                               
+
+===============================================================================
+          Frequency Count: 5
+===============================================================================
+back                               could
+day                                father
+him                                not
+said                               then
+there                              went
+with                               would
+
+===============================================================================
+          Frequency Count: 4
+===============================================================================
+after                              bed
+days                               did
+don't                              from
+hours                              however
+is                                 kind
+only                               say
+this                               up
+
+===============================================================================
+          Frequency Count: 3
+===============================================================================
+again                              asked
+be                                 before
+calling                            die
+do                                 down
+end                                garden
+girl                               good
+happy                              head
+herself                            home
+horse                              how
+i'd                                if
+its                                late
+leave                              like
+marry                              no
+now                                off
+place                              promise
+swear                              time
+too                                will
+words                              
+
+===============================================================================
+          Frequency Count: 2
+===============================================================================
+able                               anything
+away                               beast's
+been                               began
+beside                             bring
+came                               come
+daughters                          death
+dying                              eyes
+family                             feel
+fell                               fire
+first                              forgive
+found                              greet
+heart                              himself
+hope                               hugged
+hurry                              ill
+immediately                        last
+lay                                led
+light                              love
+made                               magic
+magnificent                        man
+mirror                             moment
+monster                            never
+night                              nobody
+nothing                            out
+own                                promised
+put                                quite
+ran                                reached
+really                             return
+rooms                              sat
+saw                                see
+set                                seven
+shall                              shelter
+sight                              splendid
+still                              suddenly
+table                              thank
+them                               though
+three                              threw
+took                               towards
+turned                             ugly
+well                               what
+where                              woke
+you'll                             you've
+young                              
+
+===============================================================================
+          Frequency Count: 1
+===============================================================================
+abrupt                             accept
+accompanied                        actually
+adventure                          afraid
+agony                              already
+always                             amazed
+angrily                            are
+arrive                             asleep
+ate                                attention
+attract                            awful
+bathed                             became
+bedside                            beginning
+being                              bent
+blew                               bloodshot
+breakfast                          bright
+brocade                            broken
+bush                               business
+can                                can't
+caught                             certain
+clamped                            close
+clothes                            coffee
+cold                               completely
+condition                          conversation
+corridor                           couldn't
+courage                            crackled
+crouched                           curiosity
+dead                               dear
+dearest                            deep
+delight                            describing
+dinner                             discover
+distance                           distant
+done                               doom
+door                               doubt
+downstairs                         dreadful
+dreamt                             dress
+drew                               dropped
+drove                              each
+embraced                           embroidering
+enjoying                           evening
+evil                               explaining
+eye                                face
+faced                              fading
+failed                             fallen
+far                                fast
+father's                           favourite
+fear                               feelings
+feet                               few
+find                               finest
+finished                           flashed
+flowers                            friends
+frightened                         frightful
+front                              fruit
+further                            gale
+gardens                            gave
+gazing                             generous
+gesture                            get
+gift                               glared
+gleaming                           go
+gone                               gradually
+gravely                            greeting
+growled                            hall
+halls                              hand
+handsome                           hardly
+have                               headway
+hearty                             here
+horrible                           horror
+host                               howling
+hurt                               i'm
+i've                               inn
+inside                             instead
+interrupted                        inviting
+it's                               journey
+keep                               kept
+kill                               kindly
+knees                              know
+knowing                            known
+large                              later
+left                               let
+lingered                           little
+lnstantly                          lonely
+longing                            looked
+lost                               loving
+magically                          maiden
+main                               make
+market                             meal
+menacing                           middle
+might                              mind
+miracle                            monster's
+morning                            mouth
+much                               mug
+name                               near
+necklace                           next
+nightmare                          notice
+noticed                            obey
+offended                           oh
+once                               onwards
+open                               overcome
+owed                               owner
+passed                             past
+paw                                pearl
+peeped                             pick
+picked                             placed
+pleading                           pleasant
+plucking                           present
+presented                          prettiest
+prince                             prisoner
+rage                               rather
+reaching                           real
+reality                            recovery
+refusal                            remembered
+remembering                        reply
+resist                             rest
+returned                           road
+room                               roses
+rushed                             save
+saving                             second
+secret                             self
+served                             shakily
+shaking                            shining
+shook                              short
+shortly                            shouted
+shouting                           shuddered
+shut                               silence
+silently                           sit
+slept                              slight
+snout                              soft
+solem                              solemnly
+some                               soon
+spare                              specially
+spite                              spoke
+sprang                             stairs
+stalked                            stared
+started                            starving
+stay                               stayed
+steaming                           steed
+storm                              strangeness
+such                               sudden
+suffering                          surprise
+surprisingly                       sweetest
+take                               taken
+tears                              tell
+terrible                           terrifying
+terror-stricken                    tethered
+thanks                             that's
+theft                              these
+third                              tidying
+tightly                            till
+told                               transform
+tree                               trembling
+twisting                           two
+understand                         unexpected
+ungrateful                         unhappy
+unknown                            upon
+upstairs                           usual
+ventured                           very
+visit                              voice
+want                               wanted
+wasn't                             wearing
+weary                              wedding
+weeping                            were
+what's                             whipping
+who                                whose
+why                                wife
+willing                            wish
+witch                              won't
+wonder                             wood
+worried                            worry
+wrong                              yes
+youngest                           
